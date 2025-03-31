@@ -1,0 +1,14 @@
+*
+!.gitignore
+
+!examples
+!thirdparty
+
+!*.md
+!*.h
+!*.c
+!*.ac
+!Makefile
+
+config.h
+
